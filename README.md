@@ -27,7 +27,7 @@ Find out more about the [SkillBridge](https://medium.com/@TechLabs_Hamburg/skill
 
 ## Authors
 
-- [Ihab Mortada](https://github.com/IhabMortada), Backend
+- [Ihab Mortada](https://github.com/IhabMortada), Backend, Frontend
 - [Frank Gerngroß](https://github.com/Akki-on-Rails), Frontend
 - [Jannis Baalmann](https://github.com/JLBSoftware), Frontend
 
