@@ -29,6 +29,6 @@ Find out more about the [SkillBridge](https://medium.com/@TechLabs_Hamburg/skill
 - [Frank Gerngroß](https://github.com/Akki-on-Rails), Frontend
 - [Jannis Baalmann](https://github.com/JLBSoftware), Frontend
 
-### Menthor
+### Mentor
 
 - [Tim Petersen](https://github.com/Tim-Pet), TechLabs, Hamburg
